@@ -119,7 +119,7 @@ h5.modal-title{
   display: none;
 }
 
-@media (max-width: 768px){
+@media (max-width: 898px){
   .bg{
     background: #060842 url(../img/rb.svg) no-repeat bottom right / 120px;
   }
